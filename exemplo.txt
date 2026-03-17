@@ -4,3 +4,5 @@ now another example test but with conflict when try pull from remote
 
 add from remote github page
 aadd from gitox
+
+now i deleted it file on gitox but i change it on github
